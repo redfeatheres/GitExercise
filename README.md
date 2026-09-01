@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 # My Git Exercise!
 ## Some H2 paragraph
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Suspendisse eleifend id nisi non sollicitudin. 
 Mauris convallis sapien eu risus ultrices vulputate. 
@@ -9,6 +11,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 ***
 ### Some H3 paragraph
+
 ***
 #### List
 
@@ -16,7 +19,9 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 *Second
 *Third
 ---
+
 `git push`
+
 ```
 <p class="Head01">Таблица тегов</p>
   
