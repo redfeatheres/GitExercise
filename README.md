@@ -1,11 +1,11 @@
-<a id="top">
+<a id="top"></a>
+
 # My Git Exercise!
-</a>
+
 
 ***
 
 ## Some H2 paragraph
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Suspendisse eleifend id nisi non sollicitudin. 
 Mauris convallis sapien eu risus ultrices vulputate. 
