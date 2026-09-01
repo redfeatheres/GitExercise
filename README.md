@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+<a id="top">
 # My Git Exercise!
+</a>
+***
 ## Some H2 paragraph
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -13,11 +15,17 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 ### Some H3 paragraph
 
 ***
-#### List
+### List
 
-*First
-*Second
-*Third
+* First
+* Second
+* Third
+---
+### Quote
+
+> Some quote design
+
+
 ---
 
 `git push`
@@ -65,3 +73,4 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 ```
 ***
 Proin justo lorem, hendrerit non vestibulum eget, pretium vel nunc. Cras rutrum mattis velit, et venenatis dolor laoreet vitae. Nulla magna tellus, varius non diam vitae, tempus malesuada eros.
+<a href="#top">BACK TO TOP</a>
