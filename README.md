@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Git Exercise!
 ## Some H2 paragraph
 
@@ -13,11 +12,17 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 ### Some H3 paragraph
 
 ***
-#### List
+### List
 
-*First
-*Second
-*Third
+* First
+* Second
+* Third
+---
+### Quote
+
+> Some quote design
+
+
 ---
 
 `git push`
